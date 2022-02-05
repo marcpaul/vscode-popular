@@ -1,30 +1,32 @@
 {
-    "name": "popular",
-    "displayName": "popular",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "marcpaul",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/marcpaul/vscode-popular.git"
-    },
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "samverschueren.yo",
-        "dtsvet.vscode-wasm",
-        "qcz.text-power-tools",
-        "philosowaffle.openapi-designer",
-        "william-voyek.vscode-nginx",
-        "asbjornh.vscode-module-templates",
-        "codehacks.code-hacks",
-        "helixquar.asciidecorator",
-        "analytic-signal.preview-mp4",
-        "brunnerh.insert-unicode",
-        "dnicolson.binary-plist"
-    ]
+	"name": "popular",
+	"displayName": "popular",
+	"description": "",
+	"version": "0.0.2",
+	"publisher": "marcpaul",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marcpaul/vscode-popular.git"
+	},
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"samverschueren.yo",
+		"dtsvet.vscode-wasm",
+		"qcz.text-power-tools",
+		"philosowaffle.openapi-designer",
+		"william-voyek.vscode-nginx",
+		"asbjornh.vscode-module-templates",
+		"codehacks.code-hacks",
+		"helixquar.asciidecorator",
+		"analytic-signal.preview-mp4",
+		"brunnerh.insert-unicode",
+		"dnicolson.binary-plist",
+		"deque-systems.vscode-axe-linter",
+		"webhint.vscode-webhint"
+	]
 }
