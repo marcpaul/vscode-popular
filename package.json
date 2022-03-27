@@ -16,6 +16,7 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
+		"af4jm.vscode-icalendar",
 		"analytic-signal.preview-mp4",
 		"asbjornh.vscode-module-templates",
 		"brunnerh.insert-unicode",
@@ -23,6 +24,7 @@
 		"deque-systems.vscode-axe-linter",
 		"dnicolson.binary-plist",
 		"dtsvet.vscode-wasm",
+		"funkyremi.vscode-google-translate",
 		"philosowaffle.openapi-designer",
 		"qcz.text-power-tools",
 		"samverschueren.yo",
