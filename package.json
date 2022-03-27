@@ -15,18 +15,18 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-		"samverschueren.yo",
-		"dtsvet.vscode-wasm",
-		"qcz.text-power-tools",
-		"philosowaffle.openapi-designer",
-		"william-voyek.vscode-nginx",
-		"asbjornh.vscode-module-templates",
-		"codehacks.code-hacks",
-		"helixquar.asciidecorator",
 		"analytic-signal.preview-mp4",
+		"asbjornh.vscode-module-templates",
 		"brunnerh.insert-unicode",
-		"dnicolson.binary-plist",
+		"codehacks.code-hacks",
 		"deque-systems.vscode-axe-linter",
-		"webhint.vscode-webhint"
+		"dnicolson.binary-plist",
+		"dtsvet.vscode-wasm",
+		"helixquar.asciidecorator",
+		"philosowaffle.openapi-designer",
+		"qcz.text-power-tools",
+		"samverschueren.yo",
+		"webhint.vscode-webhint",
+		"william-voyek.vscode-nginx"
 	]
 }
